@@ -6,7 +6,7 @@
 // Add your WhatsApp number below in international format WITHOUT +, spaces or dashes.
 // Example India: 919876543210
 // Example UAE:   971501234567
-const WHATSAPP_NUMBER = "";
+const WHATSAPP_NUMBER = "917863039037";
 
 // Optional: update these later if you add business details in the HTML.
 const BRAND_NAME = "VisaHub Worldwide";
