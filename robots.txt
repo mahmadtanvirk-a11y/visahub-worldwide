@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahmadtanvirk-a11y.github.io/visahub-worldwide/sitemap.xml
